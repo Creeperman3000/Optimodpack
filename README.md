@@ -27,7 +27,9 @@ As I embarked on the journey of creating a Minecraft modpack, I quickly realized
 
 
 <details>
-<summary>This modpack was inspaired by: </summary>[Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)
+<summary>This modpack was inspaired by: </summary>
+
+[Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)
 
 [Simply Optimaized](https://modrinth.com/modpack/sop)
 
